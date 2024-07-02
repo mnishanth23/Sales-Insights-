@@ -1,6 +1,6 @@
 # Sales-Insights Using Tableau 
 
-## Live Dashboard link :
+## Live Dashboard link : https://prod-apnortheast-a.online.tableau.com/#/site/9923150090f66872d2d8/workbooks/1932023?:origin=card_share_link
 
 ### Company Description 
   Atliq Is an Manufacturing company which is manufactured hardware peripherals.
